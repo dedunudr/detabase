@@ -1,2 +1,1 @@
-# databesss
-Fuck
+# detabase
